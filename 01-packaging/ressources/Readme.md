@@ -19,6 +19,7 @@ This ressource tackle the point of packaging Python code into installable, reusa
 - [Better Code Hub](https://bettercodehub.com)
 - [Docker Hub](https://hub.docker.com)
 - [Heroku](https://www.heroku.com)
+- [Codecov.io](https://codecov.io)
 
 ## Useful Python Packages :rocket:
 - [wheel](http://pythonwheels.com)
