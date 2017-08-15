@@ -12,6 +12,7 @@ This ressource tackle the point of packaging Python code into installable, reusa
 - [Glyph: Python Packaging](https://glyph.twistedmatrix.com/2016/08/python-packaging.html) :star:
 - [The Hitchhiker's Guide to Packaging](http://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/quickstart.html) :star::star:
 - [How to build a mordern CI/CD pipeline](https://medium.com/bettercode/how-to-build-a-modern-ci-cd-pipeline-5faa01891a5b) :star::star::star:
+- [Tox tricks and patterns](https://blog.ionelmc.ro/2015/04/14/tox-tricks-and-patterns/) :star::star:
 
 ## Useful 3rd Party Magic :crystal_ball:
 - [Read the Docs](https://readthedocs.org)
@@ -20,10 +21,12 @@ This ressource tackle the point of packaging Python code into installable, reusa
 - [Docker Hub](https://hub.docker.com)
 - [Heroku](https://www.heroku.com)
 - [Codecov.io](https://codecov.io)
+- [Coveralls.io](https://coveralls.io)
 
 ## Useful Python Packages :rocket:
 - [wheel](http://pythonwheels.com)
 - [twinx](https://pypi.python.org/pypi/twine)
 - [tox](https://tox.readthedocs.io/en/latest/)
 - [cookiecutter](https://github.com/audreyr/cookiecutter)
+- [pytest](https://docs.pytest.org/en/latest/contents.html)
 
