@@ -29,4 +29,5 @@ This ressource tackle the point of packaging Python code into installable, reusa
 - [tox](https://tox.readthedocs.io/en/latest/)
 - [cookiecutter](https://github.com/audreyr/cookiecutter)
 - [pytest](https://docs.pytest.org/en/latest/contents.html)
+- [sphinx](http://www.sphinx-doc.org/en/stable/)
 
