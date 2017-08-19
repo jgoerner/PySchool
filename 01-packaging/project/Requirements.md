@@ -5,10 +5,10 @@ This weekend's project should wrap up the topic of python packaging including
 aspects of "modern" software engineering. The following themes shall be covered:
 
 - [ ] Source Control
-- [ ] Continuous Integration
 - [ ] Testing
 - [ ] Coverage Checking
 - [ ] Style Checking
+- [ ] Continuous Integration
 - [ ] Documentation
 - [ ] Providing the package on PyPI (test version)
 
