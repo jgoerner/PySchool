@@ -6,8 +6,8 @@ aspects of "modern" software engineering. The following themes shall be covered:
 
 - [X] Source Control ([Git](https://git-scm.com), [GitHub](https://github.com))
 - [X] Testing ([pytest](https://docs.pytest.org/en/latest/), [Makefile](https://www.gnu.org/software/make/manual/make.html), [Travis CI](https://travis-ci.org))
-- [ ] Coverage Checking
-- [ ] Style Checking
+- [ ] Code Coverage
+- [ ] Code Styling
 - [ ] Continuous Integration
 - [ ] Documentation
 - [ ] Providing the package on PyPI (test version)
