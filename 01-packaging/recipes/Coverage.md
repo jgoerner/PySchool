@@ -69,6 +69,9 @@ after_success:
 ```
 4) Commit and push to your codebase
 
+Here is an example of a coveralls dashboard<br><br>
+![coveralls demo](https://coveralls.io/assets/home_screen-a4d6ff047dc0c195a77394c64c35a5443a10d11ace900070a92604fd9d468256.jpg)
+
 ## Code coverage automation with *codecov.io*
 [codecov.io](https://codecov.io/) is a web based service that automatically checks the code coverage. For open source projects codecov offers a free tier option. Take the following steps to enable the coverage report with coverall.io:
 1) Register on [https://codecov.io/](https://codecov.io/)
@@ -85,3 +88,6 @@ after_success:
     - codecov 
 ```
 4) Commit and push to your codebase
+
+Here is an exaple of a codecov dashboard<br><br>
+![codecov demo](http://d2.alternativeto.net/dist/s/codecov-io_571229_full.png?format=jpg&width=1600&height=1600&mode=min&upscale=false)
