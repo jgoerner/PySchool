@@ -10,7 +10,6 @@ aspects of "modern" software engineering. The following themes shall be covered:
 - [ ] Coverage Checking
 - [ ] Style Checking
 - [ ] Containerization
-- [ ] Embedding into a hosted WebApp
 - [ ] Documentation
 - [ ] Providing the package on PyPI (test version)
 
