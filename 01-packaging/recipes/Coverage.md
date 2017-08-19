@@ -11,7 +11,7 @@ quality.
 []() is an addition to pytest that also includes the calculation of
 code coverage statistics. Once installed it can be invoked by the following command
 ```
-python -m pytest --cov tests/
+python -m pytest --cov=./
 ```
 This shall give a CLI representation of the tested code, included how many lines
 are covered and how many are missed. Here is an example.
@@ -41,7 +41,7 @@ Another very handy feature of pytest-cov is the formatted output as a bundle of
 HTML files. The follwing command will calculate the code coverage and export
 the statistics into a nicely formatted webpage.
 ```
-python -m pytest --cov --cov-report html:cov_html tests/
+python -m pytest --cov=./ --cov-report html:cov_html 
 ```
 The HTML reports are all interactive and linked, which makes it extremely user-friendly.
 The following images depict sample HTML coverage reports.<br><br>
@@ -50,7 +50,7 @@ The following images depict sample HTML coverage reports.<br><br>
 
 ## Code coverage automation with *make*
 In order to (semi) automate the coverage calculation, the python commands above 
-can be also put into a Makefile - [like the automated testing procedure](https://github.com/jgoerner/PySchool/blob/master/01-packaging/recipes/Testing.md#automating-testing-with-make)
+can be also put into a Makefile - [like the automated testing procedure](https://github.com/jgoerner/PySchool/blob/master/01-packaging/recipes/Testing.md#automating-testing-with-make).
 
 ## Code coverage automation with *coveralls.io*
 [Coveralls.io](https://coveralls.io) is a web based service that automatically checks the code coverage. For open source projects Coveralls offers a free tier option. Take the following steps to enable the coverage report with coverall.io:
