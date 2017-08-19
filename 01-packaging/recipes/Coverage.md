@@ -48,16 +48,40 @@ The following images depict sample HTML coverage reports.<br><br>
 ![HTML coverage overview](https://i.stack.imgur.com/UOnur.png)<br>
 ![HTML coverage report](http://oddbird.net/python-testing-tools-preso/images/coverage.png)
 
-## Automated code coverage with *make*
+## Code coverage automation with *make*
 In order to (semi) automate the coverage calculation, the python commands above 
 can be also put into a Makefile - [like the automated testing procedure](https://github.com/jgoerner/PySchool/blob/master/01-packaging/recipes/Testing.md#automating-testing-with-make)
 
-# TODO: REFACTOR FROM HERE
+## Code coverage automation with *coveralls.io*
+[Coveralls.io](https://coveralls.io) is a web based service that automatically checks the code coverage. For open source projects Coveralls offers a free tier option. Take the following steps to enable the coverage report with coverall.io:
+1) Register on [coverall.io](https://coveralls.io)
+2) Go to settings and enable the coverage report for the according repository
+3) Make sure your .travis.yml includes the following lines
+```
+install:
+    - pip install pytest-cov coveralls
 
-## Code coverage with coveralls.io
-[Coveralls.io]() is a web based service that automatically checks the code coverage. For open source projects Coveralls 
-offers a free tier option. Once logged in with the GitHub credentials one has to 
-enable the according repository in the coveralls settings. After the next commit, 
-coveralls will procude metrics like the following:
+script:
+    - python -m pytest --cov=./ 
 
-## Code coverage with codecov.io
+after_success:
+    - coveralls 
+```
+4) Commit and push to your codebase
+
+## Code coverage automation with *codecov.io*
+[codecov.io](https://codecov.io/) is a web based service that automatically checks the code coverage. For open source projects codecov offers a free tier option. Take the following steps to enable the coverage report with coverall.io:
+1) Register on [https://codecov.io/](https://codecov.io/)
+2) Go to settings and enable the coverage report for the according repository
+3) Make sure your .travis.yml includes the following lines
+```
+install:
+    - pip install pytest-cov codecov
+
+script:
+    - python -m pytest --cov=./ 
+
+after_success:
+    - codecov 
+```
+4) Commit and push to your codebase
