@@ -36,7 +36,7 @@ to testing. Once executed from the CLI pytest will automatically search
 for tests and run them (iff suffix '*test*' was used). Being in the root of the 
 project, pytest can be invoked as follows:
 ```
-python -m pytest tests/ -v
+python -m pytest -v tests/
 ```
 If all tests pass, the result should look like this:
 ```
@@ -63,7 +63,7 @@ In order to (semi) automate the testing procedure (and not having to call
 Here is an example of a fairly simple Makefile, that eases the 
 testing workflow.
 ```
-# MAKEFILE
+# Makefile
 test:
   python -m pytest -v tests/
 ```
