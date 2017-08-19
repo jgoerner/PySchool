@@ -50,10 +50,14 @@ The following images depict sample HTML coverage reports.<br><br>
 
 ## Automated code coverage with *make*
 In order to (semi) automate the coverage calculation, the python commands above 
-can be also put into a Makefile - [like the testing](https://github.com/jgoerner/PySchool/blob/master/01-packaging/recipes/Testing.md#automating-testing-with-make)
+can be also put into a Makefile - [like the automated testing procedure](https://github.com/jgoerner/PySchool/blob/master/01-packaging/recipes/Testing.md#automating-testing-with-make)
+
+# TODO: REFACTOR FROM HERE
 
 ## Code coverage with coveralls.io
 [Coveralls.io]() is a web based service that automatically checks the code coverage. For open source projects Coveralls 
-offers a free tier option
+offers a free tier option. Once logged in with the GitHub credentials one has to 
+enable the according repository in the coveralls settings. After the next commit, 
+coveralls will procude metrics like the following:
 
 ## Code coverage with codecov.io
