@@ -76,7 +76,7 @@ A great advantage of Makefiles is, that their so called 'targets' (in this case 
 target has the name 'test') can be put together in execution dependencies. E.g. one
 could enforce to make tests before other targets (like a commit) are executed.
 
-## Automating testing with TravisCI
+## Automating testing with *TravisCI*
 [TravisCI](https://travis-ci.org) is one (out of dozen) so called 
 'continuous integration' web services.The basic principle behind Travis 
 (and other CIs) is to get notified, whenenver a new commit was pushed to the codebase. 
