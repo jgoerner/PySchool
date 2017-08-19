@@ -2,7 +2,7 @@
 
 ## Technical Requirements
 This weekend's project should wrap up the topic of python packaging including 
-aspects of "modern" software engineering. The following themes shall be covered
+aspects of "modern" software engineering. The following themes shall be covered:
 
 - [ ] Source Control
 - [ ] Testing
@@ -18,9 +18,9 @@ The package to be developed deals with greeting people in different languages. T
 ```python
 # English
 greet("Joshua", "EN")
-> Hello Joshua, how are you today?
+"Hello Joshua, how are you today?"
 
 # Deutsch
 greet("Joshua", "DE")
-> Hallo Joshua, wie geht es dir heute?
+"Hallo Joshua, wie geht es dir heute?"
 ```
