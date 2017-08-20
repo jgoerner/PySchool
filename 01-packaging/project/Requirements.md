@@ -11,7 +11,7 @@ aspects of "modern" software engineering. The following themes shall be covered:
 - [X] Code Styling ([flake8](http://flake8.pycqa.org/en/latest/), [autopep8](https://pypi.python.org/pypi/autopep8), [Better Code Hub](https://bettercodehub.com))
 - [X] Continuous Integration ([Travis CI](https://travis-ci.org))
 - [X] Documentation ([reStructuredText](http://docutils.sourceforge.net/rst.html), [Sphinx](http://www.sphinx-doc.org/en/stable/), [Read the docs](https://readthedocs.org))
-- [ ] Providing the package on PyPI (test version)
+- [X] Providing the package on PyPI ([setuptools](https://setuptools.readthedocs.io/en/latest/), [wheels](http://pythonwheels.com), [twine](https://pypi.python.org/pypi/twine), [Test PyPI](https://testpypi.python.org/pypi))
 
 ## Content of the Package
 The package to be developed deals with greeting people in different languages. The output should somehow look like that:
