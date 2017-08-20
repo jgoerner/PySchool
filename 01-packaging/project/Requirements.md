@@ -8,8 +8,8 @@ aspects of "modern" software engineering. The following themes shall be covered:
 - [X] Testing ([pytest](https://docs.pytest.org/en/latest/), [Makefile](https://www.gnu.org/software/make/manual/make.html), [Travis CI](https://travis-ci.org))
 - [X] Code Coverage ([pytest-cov](https://pypi.python.org/pypi/pytest-cov), [coveralls.io](https://coveralls.io/
 ), [codecov.io](https://codecov.io))
-- [ ] Code Styling
-- [ ] Continuous Integration
+- [X] Code Styling ([flake8](http://flake8.pycqa.org/en/latest/), [autopep8](https://pypi.python.org/pypi/autopep8), [Better Code Hub](https://bettercodehub.com))
+- [X] Continuous Integration ([Travis CI](https://travis-ci.org)
 - [ ] Documentation
 - [ ] Providing the package on PyPI (test version)
 
