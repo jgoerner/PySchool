@@ -28,6 +28,7 @@ greet("Joshua", "DE")
 ## Greetings
 Sourcecode: [@GitHub](https://github.com/jgoerner/greetings)<br>
 Documentation: [@Read The Docs](http://jgoerner-greetings.readthedocs.io/en/latest/)<br>
+Package: [@Test PyPI](https://testpypi.python.org/pypi/jgoerner-greetings/1.0)<br>
 Badges:<br>
 [![Build Status](https://travis-ci.org/jgoerner/greetings.svg?branch=master)](https://travis-ci.org/jgoerner/greetings)
 [![Coverage Status](https://coveralls.io/repos/github/jgoerner/greetings/badge.svg?branch=master)](https://coveralls.io/github/jgoerner/greetings?branch=master)
