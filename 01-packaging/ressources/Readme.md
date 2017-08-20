@@ -14,6 +14,7 @@ This ressource tackle the point of packaging Python code into installable, reusa
 - [How to build a mordern CI/CD pipeline](https://medium.com/bettercode/how-to-build-a-modern-ci-cd-pipeline-5faa01891a5b) :star::star::star:
 - [Tox tricks and patterns](https://blog.ionelmc.ro/2015/04/14/tox-tricks-and-patterns/) :star::star:
 - [reStructuredText Primer](http://www.sphinx-doc.org/en/stable/rest.html#rst-primer) :star::star:
+- [rst and sphinx cheat sheet](https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html) :star::star:
 
 ## Useful 3rd Party Magic :crystal_ball:
 - [Read the Docs](https://readthedocs.org)
