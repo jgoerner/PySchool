@@ -1,4 +1,4 @@
-# Package Compilation
+# Package Building
 As a final step the a Python package needs to be "built" in order to be provided on the Python Packaging Index (PyPI).
 The following sections briefly explain the issues to consider.
 
