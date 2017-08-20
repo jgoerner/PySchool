@@ -24,6 +24,7 @@ This ressource tackle the point of packaging Python code into installable, reusa
 - [Heroku](https://www.heroku.com)
 - [Codecov.io](https://codecov.io)
 - [Coveralls.io](https://coveralls.io)
+- [Test PyPi](https://testpypi.python.org/pypi) 
 
 ## Useful Python Packages :rocket:
 - [wheel](http://pythonwheels.com)
