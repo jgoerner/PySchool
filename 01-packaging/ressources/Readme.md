@@ -7,7 +7,7 @@ This ressource tackle the point of packaging Python code into installable, reusa
 - [Creating, Building, Testing and Documenting a Python Project - PyCon 2016 (3:17:05)](https://www.youtube.com/watch?v=SUt3wT43AeM) :star::star::star:
 
 ## Readings :notebook:
-- [Python Packaging User Guide](https://packaging.python.org) :star::star:
+- [Python Packaging User Guide](https://packaging.python.org) :star::star::star:
 <br> ([PDF Version](https://media.readthedocs.org/pdf/python-packaging-user-guide/latest/python-packaging-user-guide.pdf))
 - [Glyph: Python Packaging](https://glyph.twistedmatrix.com/2016/08/python-packaging.html) :star:
 - [The Hitchhiker's Guide to Packaging](http://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/quickstart.html) :star::star:
