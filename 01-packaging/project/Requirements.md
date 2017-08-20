@@ -6,7 +6,8 @@ aspects of "modern" software engineering. The following themes shall be covered:
 
 - [X] Source Control ([Git](https://git-scm.com), [GitHub](https://github.com))
 - [X] Testing ([pytest](https://docs.pytest.org/en/latest/), [Makefile](https://www.gnu.org/software/make/manual/make.html), [Travis CI](https://travis-ci.org))
-- [ ] Code Coverage
+- [X] Code Coverage ([pytest-cov](https://pypi.python.org/pypi/pytest-cov), [coveralls.io](https://coveralls.io/
+), [codecov.io](https://codecov.io))
 - [ ] Code Styling
 - [ ] Continuous Integration
 - [ ] Documentation
