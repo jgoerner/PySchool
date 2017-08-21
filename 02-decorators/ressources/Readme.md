@@ -9,7 +9,8 @@ Ressources about the Python speciality Decorators.
 
 
 ## Readings :notebook:
-- [Python Wiki on Decorators](https://wiki.python.org/moin/PythonDecorators) <- continue reading me
+- [Python Wiki on Decorators](https://wiki.python.org/moin/PythonDecorators) :star:
+- [PEP 318](https://www.python.org/dev/peps/pep-0318/) 
 - [Decorator Pattern in General](https://en.wikipedia.org/wiki/Decorator_pattern) :star:
 - [Python Decorator Library](https://wiki.python.org/moin/PythonDecoratorLibrary) :star::star:
 
