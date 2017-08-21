@@ -11,7 +11,7 @@ Ressources about the Python speciality Decorators.
 ## Readings :notebook:
 - [Python Wiki on Decorators](https://wiki.python.org/moin/PythonDecorators) <- continue reading me
 - [Decorator Pattern in General](https://en.wikipedia.org/wiki/Decorator_pattern) :star:
-- [Python Decorator Library](https://wiki.python.org/moin/PythonDecoratorLibrary) <- Read me
+- [Python Decorator Library](https://wiki.python.org/moin/PythonDecoratorLibrary) :star::star:
 
 ## Useful 3rd Party Magic :crystal_ball:
 
