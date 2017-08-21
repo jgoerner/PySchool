@@ -16,3 +16,4 @@ Ressources about the Python speciality Decorators.
 ## Useful 3rd Party Magic :crystal_ball:
 
 ## Useful Python Packages :rocket:
+- [functools](https://docs.python.org/3/library/functools.html)
