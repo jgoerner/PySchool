@@ -6,7 +6,7 @@ the following requirements need to be fulfilled in order to chain multiple decor
 - decorate each internal `wrapper` with the `@wraps(original_function)`
 
 ## Example
-The following example can be found under (src/decorator_chained.py)[https://github.com/jgoerner/PySchool/blob/master/02-decorators/recipes/src/decorator_chained.py].
+The following example can be found under [src/decorator_chained.py](https://github.com/jgoerner/PySchool/blob/master/02-decorators/recipes/src/decorator_chained.py).
 ```python
 #!/usr/bin/env python
 import time
