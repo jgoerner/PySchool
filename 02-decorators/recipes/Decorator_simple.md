@@ -2,8 +2,8 @@
 ## Description
 A basic decorator consists of the following parts:
 - a method signature, that accepts the `original_function`
-- an internal wrapper function that executes the original function and adds some extra functionality
-- a return statement that returns the internal wrapper
+- an internal `wrapper` function that executes the `original function` and adds some extra functionality
+- a return statement that returns the internal `wrapper`
 
 ## Example
 The following code can be found under [src/decorator_simple.py](https://github.com/jgoerner/PySchool/blob/master/02-decorators/recipes/src/decorator_simple.py).
