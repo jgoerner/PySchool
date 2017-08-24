@@ -13,8 +13,11 @@ Ressources about the Python speciality Decorators.
 - [PEP 318](https://www.python.org/dev/peps/pep-0318/) :star:
 - [Decorator Pattern in General](https://en.wikipedia.org/wiki/Decorator_pattern) :star:
 - [Python Decorator Library](https://wiki.python.org/moin/PythonDecoratorLibrary) :star::star:
+- [Primer on Python Decorators](https://realpython.com/blog/python/primer-on-python-decorators/) :star::star:
+- [Awesome Python Decorators](https://github.com/lord63/awesome-python-decorator) :star::star::star:
 
 ## Useful 3rd Party Magic :crystal_ball:
 
 ## Useful Python Packages :rocket:
 - [functools](https://docs.python.org/3/library/functools.html)
+- [click](https://github.com/pallets/click)
