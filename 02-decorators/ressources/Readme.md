@@ -16,9 +16,10 @@ Ressources about the Python speciality Decorators.
 - [Primer on Python Decorators](https://realpython.com/blog/python/primer-on-python-decorators/) :star::star:
 - [Awesome Python Decorators](https://github.com/lord63/awesome-python-decorator) :star::star::star:
 
-## Useful 3rd Party Magic :crystal_ball:
-
 ## Useful Python Packages :rocket:
 - [functools](https://docs.python.org/3/library/functools.html)
+  - wraps
+  - lru_cache
+- [wrapt](https://wrapt.readthedocs.io/en/latest/)
 - [click](https://github.com/pallets/click)
 - [formatted string literals (builtin)](https://docs.python.org/3/reference/lexical_analysis.html#f-strings)
