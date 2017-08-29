@@ -2,7 +2,9 @@
 How to get rid of repepetive work and bootstrap your productivity
 
 ## Videos :movie_camera:
-- [Kickstarting Projects with Cookiecutter (28:27)](https://www.youtube.com/watch?v=nExL0SgKsDY)
+- [Kickstarting Projects with Cookiecutter (28:27)](https://www.youtube.com/watch?v=nExL0SgKsDY) :star::star:
+- [Jinja Templating (21:07)](https://www.youtube.com/watch?v=3tf8XlhsQAo&t=870s) <- to be watched
+- [How the Jinja2 Templates work with Python **kwargs](https://www.youtube.com/watch?v=etvFRzEiXAI&t=39s) <- to be watched
 
 ## Readings :notebook:
 - [Available Python Cookiecutters](https://github.com/audreyr/cookiecutter#python)
