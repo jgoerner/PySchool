@@ -7,9 +7,9 @@ mini-projects shall be implemented:
 
 ### Flask Templating
 In order to get more familiar with the Jinja syntax, the Flask template should contain the majority of Jinja features, such as:
-- [ ] Statements
-- [ ] Variables
-- [ ] Filters
+- [x] Statements (for loop)
+- [x] Variables (users)
+- [ ] Filters (backend via `request.args`)
 - [ ] Tests
 - [ ] Comments
 - [ ] Template inheritance

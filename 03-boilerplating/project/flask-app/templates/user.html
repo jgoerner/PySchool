@@ -1,0 +1,13 @@
+<html>
+<head>
+    <title>All Users</title>
+</head>
+<body>
+    <div>
+        {% for user in users %}
+        {{user.id}}: <b>{{ user.name }}</b>({{ user.age }}) -- {{ user.email }}
+        <br>
+        {% endfor %}
+    </div>
+</body>
+</html>
