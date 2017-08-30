@@ -1,4 +1,4 @@
-# Ressources for "Boilerplating with Python" :card_index:
+# Ressources for "Boilerplating with Python" :globe_with_meridians:
 How to get rid of repepetive work and bootstrap your productivity
 
 ## Videos :movie_camera:
@@ -11,8 +11,6 @@ How to get rid of repepetive work and bootstrap your productivity
 - [How to create an own Cookiecutter](http://cookiecutter.readthedocs.io/en/latest/first_steps.html)
 - [Primer on Jinja Templating](https://realpython.com/blog/python/primer-on-jinja-templating/)
 - [Jinja Template Designer Documentation](http://jinja.pocoo.org/docs/dev/templates/)
-
-## Useful 3rd Party Magic :crystal_ball:
 
 ## Useful Python Packages :rocket:
 - [PyScaffold](https://pyscaffold.readthedocs.io/en/v2.5.7/)
