@@ -7,10 +7,10 @@ How to get rid of repepetive work and bootstrap your productivity
 - [How the Jinja2 Templates work with Python **kwargs](https://www.youtube.com/watch?v=etvFRzEiXAI&t=39s) :star:
 
 ## Readings :notebook:
-- [Available Python Cookiecutters](https://github.com/audreyr/cookiecutter#python)
+- [Available Python Cookiecutters](https://github.com/audreyr/cookiecutter#python) :star::star::star:
 - [How to create an own Cookiecutter](http://cookiecutter.readthedocs.io/en/latest/first_steps.html)
-- [Primer on Jinja Templating](https://realpython.com/blog/python/primer-on-jinja-templating/)
-- [Jinja Template Designer Documentation](http://jinja.pocoo.org/docs/dev/templates/)
+- [Primer on Jinja Templating](https://realpython.com/blog/python/primer-on-jinja-templating/) :star:
+- [Jinja Template Designer Documentation](http://jinja.pocoo.org/docs/dev/templates/) :star::star::star:
 
 ## Useful Python Packages :rocket:
 - [PyScaffold](https://pyscaffold.readthedocs.io/en/v2.5.7/)
