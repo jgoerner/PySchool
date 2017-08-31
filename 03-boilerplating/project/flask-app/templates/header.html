@@ -1,0 +1,15 @@
+<html>
+<head>
+    {% if title %}
+        <title>{{title}}</title>
+    {% else %}
+        <title>Awesome Homepage</title>
+    {% endif %}
+</head>
+<body>
+<h1>I am from the master template</h1>
+{% block content %}
+<p>Written by jgoerner</p>
+{% endblock %}
+</body>
+</html>

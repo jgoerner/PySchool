@@ -12,8 +12,8 @@ In order to get more familiar with the Jinja syntax, the Flask template should c
 - [x] Filters (`users | map(attribute="email") | list | join('::')`)
 - [x] Tests (`if user.age > 50`)
 - [x] Comments (first part of `<body>` tag)
-- [ ] Template inheritance
-- [ ] Super Blocks
+- [x] Template inheritance (`header.html` and `child.html`)
+- [x] Super Blocks (`super()` in `child.html`)
 - [x] Control Structures (`for user in users`)
 - [ ] Macros
 

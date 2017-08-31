@@ -12,6 +12,11 @@ domains = ["gmail.com", "web.de", "my.name", "yahoo.com"]
 def index():
     return "Hello World"
 
+@app.route("/inheritance")
+def inherit():
+    return render_template("child.html", title="Inheritance Rocks",
+                           users=users)
+
 @app.route("/user")
 def get_user():
     if len(list(request.args.keys())) == 1:

@@ -1,0 +1,9 @@
+{% extends "header.html" %}
+{% block content %}
+<div>
+    {% for user in users %}
+    <p>{{user.name}}</p>
+    {% endfor %}
+</div>
+{{ super() }}
+{% endblock %}
