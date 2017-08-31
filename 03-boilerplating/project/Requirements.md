@@ -20,8 +20,6 @@ In order to get more familiar with the Jinja syntax, the Flask template should c
 ### Cookiecutter for containerized Flask App
 The cookicutter template should aim to put the Flask app above into a containerized 
 CI environment, where the user should be asked about the following Parameter:
-- [ ] project name
-- [ ] author
-- [ ] description
-- [ ] CI (Building, Testing, Coverage, Styling, Documentation, Hosting)
-- [ ] (optional) Backend (e.g. via PostgreSQL vs. SQLite)
+- [x] project name
+- [x] author
+- [ ] (optional) CI (Building, Testing, Coverage, Styling, Documentation, Hosting)

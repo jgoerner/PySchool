@@ -1,0 +1,35 @@
+{% raw %}
+<html>
+<head>
+    <title>All Users</title>
+</head>
+<body>
+    {# This is a totally freaky comment, yeah!
+    Everythin in this Block does not get rendered.
+    This is pretty awesome! #}
+    <h1>All Users</h1>
+    <div>
+        {% for user in users %}
+        {{user.id}}: <b>{{ user.name }}</b>({{ user.age }}) -- {{ user.email }}
+        <br>
+        {% endfor %}
+    </div>
+    <h1>Crazy output</h1>
+    {{ users | map(attribute="email") | list | join('::') }}
+    <h1>Only 50+ Users</h1>
+        {% for user in users %}
+            {% if user.age > 50 %}
+                {{user.id}}: <b>{{ user.name }}</b>({{ user.age }}) -- {{ user.email }}
+                <br>
+            {% endif %}
+        {% endfor %}
+    <h1>Only under 50 and .name domain</h1>
+        {% for user in users %}
+            {% if (user.age < 50) and (user.email.endswith(".name")) %}
+                {{user.id}}: <b>{{ user.name }}</b>({{ user.age }}) -- {{ user.email }}
+                <br>
+            {% endif %}
+        {% endfor %}
+</body>
+</html>
+{% endraw %}

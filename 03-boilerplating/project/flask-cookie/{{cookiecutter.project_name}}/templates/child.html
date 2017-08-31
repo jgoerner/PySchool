@@ -1,0 +1,12 @@
+{% raw %}
+{% extends "header.html" %}
+{% import "macros.html" as mcrs %}
+{% block content %}
+<div>
+    {% for user in users %}
+    {{ mcrs.appender(user.name) }}
+    {% endfor %}
+</div>
+{{ super() }}
+{% endblock %}
+{% endraw %}
