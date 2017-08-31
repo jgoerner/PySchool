@@ -14,7 +14,7 @@ In order to get more familiar with the Jinja syntax, the Flask template should c
 - [x] Comments (first part of `<body>` tag)
 - [ ] Template inheritance
 - [ ] Super Blocks
-- [ ] Control Structures 
+- [x] Control Structures (`for user in users`)
 - [ ] Macros
 
 ### Cookiecutter for containerized Flask App
