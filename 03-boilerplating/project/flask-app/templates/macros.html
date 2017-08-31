@@ -1,0 +1,7 @@
+{% macro name_capitalizer(name) -%}
+<p> {{ name | capitalize }} </p>
+{%- endmacro %}
+
+{% macro appender(name, suffix="Suffix") -%}
+<p> {{ name }} - {{ suffix }} </p>
+{%- endmacro %}

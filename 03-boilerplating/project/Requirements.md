@@ -15,7 +15,7 @@ In order to get more familiar with the Jinja syntax, the Flask template should c
 - [x] Template inheritance (`header.html` and `child.html`)
 - [x] Super Blocks (`super()` in `child.html`)
 - [x] Control Structures (`for user in users`)
-- [ ] Macros
+- [x] Macros (`appender(name, suffix)` imported from `macros.html`)
 
 ### Cookiecutter for containerized Flask App
 The cookicutter template should aim to put the Flask app above into a containerized 
@@ -24,4 +24,4 @@ CI environment, where the user should be asked about the following Parameter:
 - [ ] author
 - [ ] description
 - [ ] CI (Building, Testing, Coverage, Styling, Documentation, Hosting)
-- [ ] (optional) Backend (e.g. via PostgreSQL vs. SQLite)
+- [ ] (optional) Backend (e.g. via PostgreSQL vs. SQLite)
