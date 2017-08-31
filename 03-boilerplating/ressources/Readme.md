@@ -8,7 +8,7 @@ How to get rid of repepetive work and bootstrap your productivity
 
 ## Readings :notebook:
 - [Available Python Cookiecutters](https://github.com/audreyr/cookiecutter#python) :star::star::star:
-- [How to create an own Cookiecutter](http://cookiecutter.readthedocs.io/en/latest/first_steps.html)
+- [How to create an own Cookiecutter](http://cookiecutter.readthedocs.io/en/latest/first_steps.html) :star::star:
 - [Primer on Jinja Templating](https://realpython.com/blog/python/primer-on-jinja-templating/) :star:
 - [Jinja Template Designer Documentation](http://jinja.pocoo.org/docs/dev/templates/) :star::star::star:
 
