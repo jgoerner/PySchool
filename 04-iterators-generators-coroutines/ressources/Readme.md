@@ -10,6 +10,7 @@ Covering the topic of lazy fancy iterables in Python.
 - [PEP 492 -- Coroutines with async and await syntax](https://www.python.org/dev/peps/pep-0492/) :star::star:
 - [A course on coroutines and concurrency](http://dabeaz.com/coroutines/) <- to be read
 - [A course on coroutines and concurrency - Slides](http://dabeaz.com/coroutines/Coroutines.pdf) <- to be read
+- [Tasks & Coroutines](https://docs.python.org/3/library/asyncio-task.html)
 
 ## Useful Python Packages :rocket:
 - [asyncio](https://docs.python.org/3/library/asyncio.html)
