@@ -1,3 +1,8 @@
+"""
+Game of Life via coroutines
+Idea taken from:
+http://www.effectivepython.com/2015/03/10/consider-coroutines-to-run-many-functions-concurrently/
+"""
 from collections import namedtuple
 
 Query = namedtuple("Query", ("x", "y"))
