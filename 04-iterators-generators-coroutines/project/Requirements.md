@@ -11,4 +11,4 @@ One of the following projects shall be reimplemented and potentially enhanced:
 The [game of life](https://github.com/jgoerner/PySchool/blob/master/04-iterators-generators-coroutines/project/src/game_of_life.py) was taken from [here](http://www.effectivepython.com/2015/03/10/consider-coroutines-to-run-many-functions-concurrently/) 
 and illustrates the usage of generators and coroutines.
 A flow of the yields is depicted below:
-
+![game of life yields](https://raw.githubusercontent.com/jgoerner/PySchool/master/04-iterators-generators-coroutines/project/GameOfLifeYields.png?token=APIpbrjT78fMiHh8BPDRhYNGP1RrgxmTks5Zwr6JwA%3D%3D)
