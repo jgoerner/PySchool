@@ -25,3 +25,4 @@ Covering the topic of lazy fancy iterables in Python.
 ## Useful Python Packages :rocket:
 - [asyncio](https://docs.python.org/3/library/asyncio.html)
 - [twisted](https://twistedmatrix.com/trac/)
+- [contextlib](https://docs.python.org/3/library/contextlib.html)
