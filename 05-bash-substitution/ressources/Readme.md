@@ -4,7 +4,7 @@ This week's material aims at
 - creating BASH "scripts" with Python
 
 ## Videos :movie_camera:
-- [Quick and Robust CLI creation with Click](https://www.youtube.com/watch?v=6zPXWhG13RY) <- to be watched
+- [Quick and Robust CLI creation with Click](https://www.youtube.com/watch?v=6zPXWhG13RY) :star:
 - [Awesome Command Line Tools](https://www.youtube.com/watch?v=hJhZhLg3obk) <- to be watched
 - [A Pleasure to write, a Pleasure to use](https://www.youtube.com/watch?v=SDyHLG2ltSY) <- to be watched
 
