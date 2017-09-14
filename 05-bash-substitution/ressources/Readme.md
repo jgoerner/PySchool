@@ -9,7 +9,7 @@ This week's material aims at
 - [A Pleasure to write, a Pleasure to use](https://www.youtube.com/watch?v=SDyHLG2ltSY) <- to be watched
 
 ## Readings :notebook:
-- [Executing BASH from Python](http://www.mervine.net/executing-bash-from-python):star::star:
+- [Executing BASH from Python](http://www.mervine.net/executing-bash-from-python) :star::star:
 - [Python und die Shell](https://www.python-kurs.eu/os_modul_shell.php) <- to be read
 - [Bashing the Bash](https://medium.com/capital-one-developers/bashing-the-bash-replacing-shell-scripts-with-python-d8d201bc0989) <- to be read
 
