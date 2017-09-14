@@ -17,5 +17,5 @@ if __name__ == "__main__":
 ```
 This will lead to the output
 ```
->>> foo/  bar/  sample/ dir/
+>>> foo  bar  sample dir
 ```
