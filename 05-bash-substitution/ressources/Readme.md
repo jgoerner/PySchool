@@ -16,3 +16,5 @@ This week's material aims at
 ## Useful Python Packages :rocket:
 - [click](http://click.pocoo.org/5/)
 - [xonsh](https://github.com/xonsh/xonsh)
+- [subprocess](https://docs.python.org/3/library/subprocess.html)
+- [sh](https://github.com/amoffat/sh)
