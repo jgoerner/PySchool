@@ -18,3 +18,4 @@ This week's material aims at
 - [xonsh](https://github.com/xonsh/xonsh)
 - [subprocess](https://docs.python.org/3/library/subprocess.html)
 - [sh](https://github.com/amoffat/sh)
+- [promt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit)
