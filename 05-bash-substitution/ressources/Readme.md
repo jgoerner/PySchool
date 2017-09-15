@@ -5,7 +5,7 @@ This week's material aims at
 
 ## Videos :movie_camera:
 - [Quick and Robust CLI creation with Click](https://www.youtube.com/watch?v=6zPXWhG13RY) :star:
-- [Awesome Command Line Tools](https://www.youtube.com/watch?v=hJhZhLg3obk) <- to be watched
+- [Awesome Command Line Tools](https://www.youtube.com/watch?v=hJhZhLg3obk) :star::star::star:
 - [A Pleasure to write, a Pleasure to use](https://www.youtube.com/watch?v=SDyHLG2ltSY) :star::star:
 
 ## Readings :notebook:
