@@ -6,7 +6,7 @@ This week's material aims at
 ## Videos :movie_camera:
 - [Quick and Robust CLI creation with Click](https://www.youtube.com/watch?v=6zPXWhG13RY) :star:
 - [Awesome Command Line Tools](https://www.youtube.com/watch?v=hJhZhLg3obk) <- to be watched
-- [A Pleasure to write, a Pleasure to use](https://www.youtube.com/watch?v=SDyHLG2ltSY) <- to be watched
+- [A Pleasure to write, a Pleasure to use](https://www.youtube.com/watch?v=SDyHLG2ltSY) :star::star:
 
 ## Readings :notebook:
 - [Executing BASH from Python](http://www.mervine.net/executing-bash-from-python) :star::star:
